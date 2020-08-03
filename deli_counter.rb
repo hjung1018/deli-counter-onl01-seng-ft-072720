@@ -10,3 +10,8 @@ def line(deli)
     puts current_line
   end
 end
+
+def take_a_number(line, name)
+   line << name
+  end
+    
