@@ -11,6 +11,7 @@ def line(deli)
   end
 end
 
-def take_a_number(deli)
-  if deli.empty?
-    deli << 
+# def take_a_number(deli)
+#   if deli.empty?
+#     deli << 
+    
